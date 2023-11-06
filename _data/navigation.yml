@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Education"
-    url: /about/#education/
+    url: /about/#education
 
   - title: "Experience"
-    url: /about/#experience/
+    url: /about/#experience
   
   - title: "Publications"
-    url: /about/#publications/
+    url: /about/#publications
 
   - title: "Honors & Rewards"
-    url: /about/#honors & rewards/
+    url: /about/#honors & rewards
     
   - title: "CV"
     url: /about/
