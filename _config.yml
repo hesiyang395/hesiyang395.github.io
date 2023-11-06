@@ -13,7 +13,7 @@ name                     : &name "Siyang He"
 description              : &description "A postgraduate student from Shanghai JiaoTong University"
 url                      : https://hesiyang395.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hesiyang395/hesiyang395.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
