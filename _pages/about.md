@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postgraduate student from [School of Life Sciences & Biotechnology](https://life.sjtu.edu.cn/), [Shanghai JiaoTong University](https://www.sjtu.edu.cn/).
 
-I am very fortunate to be advised by [Prof. Hongzhi Tang](https://life.sjtu.edu.cn/teacher/HongzhiTang) & Prof. Ping Xu of FEM lab from [State Key Laboratory of Microbial Metabolism](https://skmml.sjtu.edu.cn/).
+I am very fortunate to be advised by [Prof. Hongzhi Tang](https://www.researchgate.net/profile/Hongzhi-Tang) & [Prof. Ping Xu](https://www.researchgate.net/profile/Ping-Xu-12) of FEM lab from [State Key Laboratory of Microbial Metabolism](https://skmml.sjtu.edu.cn/).
 
 ## Education
 
