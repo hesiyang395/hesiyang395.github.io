@@ -38,7 +38,7 @@
 - **Analyzed** the data of qRT-PCR to indicate diﬀerences between mutant and wild-type by Student’s t-test
 - This project led to the submission of **1 publication** (Zhu et al., 2020, DOI: [10.1007/s11103-020-01036-5](https://doi.org/10.1007/s11103-020-01036-5))
 
-## Classiﬁer construction on the Kaggle breast cancer patient dataset Shanghai Jiao Tong University 
+## Classiﬁer construction on the Kaggle breast cancer patient dataset, SJTU
 
 *Member*, *2022 Spring*
 
