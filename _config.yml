@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyang HE (何思炀)"
-description              : "MSc in Biological & Pharmaceutical Engineering, SJTU"
+description              : "MSc in Biological & Pharmaceutical Engineering"
 repository               : "hesiyang395/hesiyang395.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : # get baidu_site_verification from https://ziyuan.bai
 author:
   name             : "Siyang HE (何思炀)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HIOM"
-  location         : "Hangzhou"
+  bio              : "SLSB, SJTU"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"

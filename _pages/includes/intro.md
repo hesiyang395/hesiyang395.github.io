@@ -1,4 +1,4 @@
-I will work at HIOM in Hangzhou. 
+I get my Master degree in Biological & Pharmaceutical Engineering, and will work at HIOM in Hangzhou. 
 
 I am now working on microbiology research. If you are seeking any form of **academic cooperation**, please feel free to email me at [hesiyang395@outlook.com](mailto:hesiyang395@outlook.com).
 
