@@ -1,12 +1,3 @@
----
-permalink: /misc/
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /misc/
-  - /misc.html
----
 # Miscellaneous
 
 > ### [PhD Scheme](../archive/PhDscheme.md)
