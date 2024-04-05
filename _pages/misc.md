@@ -9,6 +9,7 @@ redirect_from:
 ---
 # Miscellaneous
 
+<span class='anchor' id='-misc'></span>
 <details> <summary><h2>PhD Scheme</h2></summary>
 
 {% include_relative archive/PhDscheme.md %}
