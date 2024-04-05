@@ -2,7 +2,7 @@
 title: '📆 PhD Scheme'
 Author: Siyang HE
 Date: 2023-10-31
-permalink: archive/PhDscheme/
+permalink: /archive/PhDscheme
 tags:
   - PhDA
 ---
