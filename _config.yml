@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Siyang HE (何思炀)"
 description              : "MSc in Biological & Pharmaceutical Engineering"
+url                      : "https://hesiyang395.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hesiyang395/hesiyang395.github.io"
 google_scholar_stats_use_cdn : true
 
