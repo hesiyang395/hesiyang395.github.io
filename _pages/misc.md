@@ -11,6 +11,6 @@ redirect_from:
 
 <details> <summary><h2>PhD Scheme</h2></summary>
 
-{% include_relative ../archive/PhDscheme.md %}
+{% include_relative archive/PhDscheme.md %}
 
 </details>
