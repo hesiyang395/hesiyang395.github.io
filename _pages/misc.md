@@ -7,7 +7,7 @@ author_profile: true
 # Miscellaneous
 
 {% include base_path %}
-
+{% capture written_year %}'None'{% endcapture %}
 {% for post in site.archive %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}

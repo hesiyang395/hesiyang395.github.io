@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Siyang HE (何思炀)"
 description              : "MSc in Biological & Pharmaceutical Engineering"
-url                      : "https://hesiyang395.github.io"
+url                      : https://hesiyang395.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hesiyang395/hesiyang395.github.io"
 google_scholar_stats_use_cdn : true
@@ -127,6 +127,17 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _archive
   - scope:
       path: ""
@@ -161,6 +172,24 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 
 # HTML Compression
