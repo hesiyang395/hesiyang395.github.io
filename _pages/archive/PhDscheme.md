@@ -1,5 +1,11 @@
-# 📆 PhD Scheme
-
+---
+title: '📆 PhD Scheme'
+Author: Siyang HE
+Date: 2023-10-31
+permalink: archive/PhDscheme/
+tags:
+  - PhDA
+---
 This is a collection for my PhD application.
 
 - [World University Rankings | Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
