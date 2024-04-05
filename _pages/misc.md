@@ -7,14 +7,14 @@ redirect_from:
   - /misc/
   - /misc.html
 ---
+# Miscellaneous
 
-<span class='anchor' id='misc'></span>
 <div style="overflow: hidden;">
-  <h3 class="post-title" itemprop="name">
-    <div id="title" onclick="onTileClick()">PhD Scheme</div>
   <h3>
+    <div id="title" onclick="onTileClick()">PhD Scheme</div>
+  </h3>
   <div id="content" style="height:150px;transition: height 0.2s;">{% include_relative archive/PhDscheme.md %}</div>
-<div>
+</div>
 <script type="text/javascript">
 	var content = document.getElementById("content");
 	function onTileClick() { content.style.height = content.offsetHeight===150 ? 0+'px' : 150+'px';}
