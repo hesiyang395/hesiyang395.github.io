@@ -1,9 +1,3 @@
----
-Author: Siyang HE
-Date: 2023-10-31
-tags:
-  - PhDA
----
 # 📆 PhD Scheme
 
 This is a collection for my PhD application.
