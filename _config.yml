@@ -24,10 +24,10 @@ baidu_site_verification  : # get baidu_site_verification from https://ziyuan.bai
 # Site Author
 author:
   name             : "Siyang HE (何思炀)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "SLSB, SJTU"
+  avatar           : "android-chrome-512x512.png"
+  bio              : ""
   location         : "Shanghai"
-  employer         :
+  employer         : "SLSB, SJTU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6Mn25tAAAAAJ"
   email            : "hesiyang395@outlook.com"
@@ -141,7 +141,7 @@ defaults:
   # _archive
   - scope:
       path: ""
-      type: archive
+      type: misc
     values:
       layout: default
       author_profile: true
