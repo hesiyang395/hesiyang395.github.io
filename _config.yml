@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Siyang HE (何思炀)"
+title_separator          : "-"
 description              : "MSc in Biological & Pharmaceutical Engineering"
 url                      : https://hesiyang395.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -138,9 +139,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _archive
+  # _misc
   - scope:
-      path: ""
+      path: "/misc/"
       type: misc
     values:
       layout: default

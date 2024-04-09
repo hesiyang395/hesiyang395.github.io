@@ -24,10 +24,16 @@ layout: compress
             {{ content }}
           </section>
         </div>
-      </article>
+      </div>
+    </article>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
 
     {% include scripts.html %}
-
+    
   </body>
 </html>

@@ -6,6 +6,8 @@ permalink: /misc/PhDscheme
 tags:
   - PhDA
 ---
+# 📆 PhD Scheme
+
 This is a collection for my PhD application.
 
 - [World University Rankings | Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
