@@ -139,7 +139,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _misc
+  # misc
   - scope:
       path: "/misc/"
       type: misc
