@@ -30,7 +30,7 @@ author:
   location         : "Shanghai"
   employer         : "SLSB, SJTU"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6Mn25tAAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=QUWWeRIAAAAJ"
   email            : "hesiyang395@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Siyang-He-5"
   uri              :
@@ -119,6 +119,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  misc:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _pages
@@ -141,7 +147,7 @@ defaults:
       related: true
   # misc
   - scope:
-      path: "/misc/"
+      path: ""
       type: misc
     values:
       layout: default
