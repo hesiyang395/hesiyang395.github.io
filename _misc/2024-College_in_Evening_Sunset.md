@@ -1,7 +1,7 @@
 ---
 title: '📸College in Evening Sunset'
 Author: Siyang HE
-date: 'Feburary 28, 2024'
+date: 'February 28, 2024'
 type: 'Competition'
 venue: 'School of Life Sciences and Biotechnology, SJTU'
 location: 'Shanghai, PR China'
